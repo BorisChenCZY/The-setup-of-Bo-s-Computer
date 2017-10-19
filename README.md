@@ -33,6 +33,9 @@ You can type `kill <process name>` to kill a process.
 
 You can type `> <Terminal command>` to execute the command you typed in terminal.
 
+### PDF Expert
+Maybe the best pdf reader in mac.
+
 ## Official apps
 
 ### CleanMyMac
