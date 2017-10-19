@@ -98,3 +98,5 @@ __conda__ is installed, which you may used to manage your python packages.
 - You may want to purchase the offical version of all private apps.
 - You will press __Ctrl + Space__ to change the input source.
 - You will press __Command + Space__ to awake Alfred.
+- You may want to check [Alfred toturial](https://lifehacker.com/a-beginners-guide-to-mouseless-computing-with-alfred-1596198655)
+- You may want to check [Sublime toturial](http://www.hongkiat.com/blog/sublime-text-tips/)
