@@ -13,23 +13,25 @@ This is a software to substitute Spotlight. You can type __Command+Space__ to aw
 
 You can type the name or pinyin of a software to start it.
 
-You can type __find <filename>__ to find a file in your computer.
+You can type `find <filename>` to find a file in your computer.
 
-You can type __open <filename>__ to open a file in your computer.
+You can type `open <filename>` to open a file in your computer.
 
-You can type __quit <app name>__ to quit an app.
+You can type `quit <app name>` to quit an app.
 
-You can type __quitallapps__ to quit all apps running.
+You can type `quitallapps` to quit all apps running.
 
-You can type __eject <disk name>__ to eject to a specific disk.
+You can type `eject <disk name>` to eject to a specific disk.
 
-You can type __ejectall__ to eject all disks.
+You can type `ejectall` to eject all disks.
 
-You can type __lock__ to lock your mac.
+You can type `lock` to lock your mac.
 
-You can type __d <word>__ to look up an English word by Youdao.
+You can type `d <word>` to look up an English word by Youdao.
 
-You can type __kill <process name>__ to kill a process.
+You can type `kill <process name>` to kill a process.
+
+You can type `> <Terminal command>` to execute the command you typed in terminal.
 
 ## Official apps
 
