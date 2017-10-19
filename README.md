@@ -42,8 +42,6 @@ This app will expire in 30 days, you can purchase it for further usage.
 
 ### QQ 
 
-### WeChat (not installed, since you have to install is through AppStore.)
-
 ### iTerm2
 Improved terminal, I also installed zsh on this, while the Terminal.app still remains bash just in case.
 Through zsh, you can simplify many git commands like you can type __ga__ for __git add__, __gp__ for __git push__.
