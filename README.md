@@ -87,8 +87,9 @@ In Skim, you can hold __Command + Shift__ and click the text, which will direct 
 __conda__ is installed, which you may used to manage your python packages.
 #### cmake
 
-# Other things needed to be done
+# Other things need to be done
 - WeChat is not installed yet.
 - Xcode is not installed yet.
 - Dropbox is not logged in yet.
 - MS Office need to be activated.
+- You may want to purchase the offical version of all private apps.
